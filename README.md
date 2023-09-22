@@ -24,12 +24,12 @@ This course covers a wide range of advanced machine learning topics to help you 
 
 ## Homework Assignments
 
-### HW1: Questions 4, 5, and 6
+### HW1: 
 
 - **Description:** In this assignment, you will delve into the fundamentals of multi-task learning and transfer learning by working on Questions 4, 5, and 6. These questions will help you understand how to learn multiple tasks and leverage prior experience when tackling new problems.
-- **Topics:** Multi-task learning, transfer learning basics.
+- **Topics:** transfer learning basics, Multi-task learning, ,Model Based Meta Learning.
 
-#### Project Goal:
+#### Q4 Project Goal:
 The goal of this assignment is to enhance understanding and practical experience in deep learning and transfer learning. This project focuses on training a neural network, utilizing a pre-built convolutional module, to achieve a minimum accuracy of 70% on the Cifar10 dataset. Additionally, it explores three scenarios for training the network on the Tiny Image dataset, involving fine-tuning techniques and weight transfer, with the aim of comparing and analyzing the performance across these scenarios through loss and accuracy metrics.
 
 

@@ -1,6 +1,4 @@
 # Advanced Machine Learning Course Projects
-## Description
-Practical projects of the Advanced ML Course offered by Prof. M. Soleymani at Sharif University of Technology.
 
 Welcome to the repository for practical projects from the Advanced Machine Learning Course offered by Prof. M. Soleymani at the Sharif University of Technology. This repository contains a collection of hands-on assignments designed to explore various advanced topics in machine learning and reinforcement learning.
 
